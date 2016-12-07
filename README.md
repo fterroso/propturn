@@ -1,4 +1,5 @@
 # ProPTurn
+##Getting Started
 ProPTurn is a real-time personal route prediction. It processes the spatio-temporal data coming from the GPS of a smartphone (timestamp + lat-lon coordinates) and, at the same time the phone's holder is moving, it is able to predict the final destination of his ongoing trip along with the next turning point. 
 
 For this goal, it is based on the Complex Event Processing paradigm. Although the current version only processes data stored in a file (.csv, .kml, etc.) it can be easily adapted to process the spatio-temporal data in real time. Furthremore, its deployment in Android devices is also feasible by means of the Asper library.
