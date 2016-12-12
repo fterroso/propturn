@@ -4,7 +4,8 @@ ProPTurn is a real-time personal route prediction. It processes the spatio-tempo
 
 For this goal, it is based on the Complex Event Processing paradigm. Although the current version only processes data stored in a file (.csv, .kml, etc.) it can be easily adapted to process the spatio-temporal data in real time. Furthremore, its deployment in Android devices is also feasible by means of the Asper library.
 
-## Third-party library dependencies
+## Requirements
+###Library dependencies
 * Esper 4.11
 * log4j 1.2.16
 * Commons lang3 3.3.2
