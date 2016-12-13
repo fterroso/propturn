@@ -14,6 +14,9 @@ For this goal, it is based on the Complex Event Processing paradigm. Although th
 * CEP-traj (available [here](https://github.com/fterroso/cep-traj))
 * landmark discovery algorithm (available [here](https://github.com/fterroso/landmark-discovery-alg))
 
+## License
+ProPTurn is licensed under General Public License (GPL) version 3.
+
 ## Bibliography
 
 For more info about the features of this application and reference purposes please use:
